@@ -20,6 +20,10 @@
     width: 288px;
 }
 
+.heading {
+    margin: 20px;
+}
+
 .italics {
     font-style: italics;
     text-align: justify;
