@@ -21,7 +21,9 @@
 }
 
 .heading {
+    border: 2px solid rgb(60, 12, 235);
     margin: 20px;
+    padding: 10px;
 }
 
 .italics {
