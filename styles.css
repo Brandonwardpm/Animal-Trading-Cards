@@ -26,3 +26,7 @@
 body {
     color: rgb(60, 12, 235);
 }
+
+span {
+    font-weight: bold;
+}
